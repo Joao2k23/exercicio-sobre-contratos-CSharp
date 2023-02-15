@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\bin\Debug\net6.0\exercício resolvido 01 - seção 9.exe
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\bin\Debug\net6.0\exercício resolvido 01 - seção 9.deps.json
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\bin\Debug\net6.0\exercício resolvido 01 - seção 9.runtimeconfig.json
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\bin\Debug\net6.0\exercício resolvido 01 - seção 9.dll
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\bin\Debug\net6.0\exercício resolvido 01 - seção 9.pdb
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.AssemblyInfo.cs
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.dll
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\refint\exercício resolvido 01 - seção 9.dll
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.pdb
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\exercício resolvido 01 - seção 9.genruntimeconfig.cache
+C:\temp\ws-vs2022\exercício resolvido 01 - seção 9\exercício resolvido 01 - seção 9\obj\Debug\net6.0\ref\exercício resolvido 01 - seção 9.dll
